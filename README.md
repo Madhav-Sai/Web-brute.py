@@ -18,7 +18,7 @@ The Web Login Brute Forcing script is a Python script that performs brute force 
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/web-login-brute-forcing.git
+git clone https://github.com/Madhav-Sai/Web-brute.py.git
 ```
 
 2. Navigate to the project directory:
